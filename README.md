@@ -14,6 +14,6 @@ app.use(express.statiic(__dirname + '/client'));
 8. Install the bower dependecies like angular.js, angular.ui router in client folder.i havnt commited that components...
 9. client/app.js for all configuartion for routing n all.
 10. server/routes.js for all routing.
-11. DBModels folder to create model schemas.
+11. DB folder to create model schemas.
 12. server/controllers folder to create route controller for each api.routing.
 13. All the controlers will require in server/routes.js file to handle the requests.
